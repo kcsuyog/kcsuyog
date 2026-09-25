@@ -1,14 +1,14 @@
 ## Suyog KC
 
-**Technical Lead · ShiftCare** &nbsp;|&nbsp; Sydney, Australia
+**AI-first Team Lead & Tech Lead · ShiftCare** &nbsp;|&nbsp; Sydney, Australia
 
-Full-stack engineer with over ten years of experience building web and mobile products. I lead technical planning, code review, and delivery at ShiftCare, a care-management platform, and focus on shipping work that is well-scoped, reviewable, and verified.
+AI-first team lead and tech lead, and a full-stack engineer with over ten years of experience building web and mobile products. I lead technical planning, code review, and delivery at ShiftCare, a care-management platform, and focus on shipping work that is well-scoped, reviewable, and verified.
 
 ### Experience
 
 | Role | Company | Period |
 | --- | --- | --- |
-| Technical Lead | ShiftCare | 2023 – Present |
+| AI-first Team Lead & Tech Lead | ShiftCare | 2023 – Present |
 | Senior Full Stack Developer | ShiftCare | 2018 – 2023 |
 | Software Engineer | Vayu Technology | 2017 – 2018 |
 | Software Engineer | SmartMobe Solutions | 2016 – 2017 |
