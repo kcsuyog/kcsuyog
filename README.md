@@ -1,12 +1,29 @@
-### Suyog KC
+## Suyog KC
 
-Technical Lead at **ShiftCare**, building web and mobile products for the care sector. Software engineer since 2014.
+**Technical Lead · ShiftCare** &nbsp;|&nbsp; Sydney, Australia
 
-- **Now:** technical planning, code review, and delivery across application features and APIs; structuring AI-assisted development with clear ownership and verification.
-- **Previously:** Senior Full Stack Developer at ShiftCare, Software Engineer at Vayu Technology and SmartMobe, and co-founder of Pine Software Solutions.
+Full-stack engineer with over ten years of experience building web and mobile products. I lead technical planning, code review, and delivery at ShiftCare, a care-management platform, and focus on shipping work that is well-scoped, reviewable, and verified.
 
-**Stack:** Ruby on Rails · TypeScript · JavaScript · Vue.js · React · React Native · Node.js
+### Experience
 
----
+| Role | Company | Period |
+| --- | --- | --- |
+| Technical Lead | ShiftCare | 2023 – Present |
+| Senior Full Stack Developer | ShiftCare | 2018 – 2023 |
+| Software Engineer | Vayu Technology | 2017 – 2018 |
+| Software Engineer | SmartMobe Solutions | 2016 – 2017 |
+| Co-founder & Software Engineer | Pine Software Solutions | 2014 – 2016 |
 
-[LinkedIn](https://www.linkedin.com/in/suyogkc/) &nbsp;·&nbsp; [Email](mailto:suyogkrazz@gmail.com)
+### Focus areas
+
+- **Technical leadership:** planning, feature decomposition, code review, and cross-functional delivery
+- **Product engineering:** APIs and complex, dynamic user interfaces across web and mobile
+- **AI-assisted development:** agent workflows with clear ownership, reviewable scope, and independent verification
+
+### Technologies
+
+Ruby on Rails · TypeScript · JavaScript · Vue.js · React · React Native · Node.js · PHP / Laravel
+
+### Contact
+
+[LinkedIn](https://www.linkedin.com/in/suyogkc/) &nbsp;·&nbsp; [suyogkrazz@gmail.com](mailto:suyogkrazz@gmail.com)
